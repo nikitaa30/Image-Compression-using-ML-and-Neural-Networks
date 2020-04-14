@@ -8,3 +8,5 @@ https://github.com/pavitrakumar78/Anime-Face-GAN-Keras/blob/master/anime_dataset
 I managed to be lucky enough to find a pre-processed(faces-cropped) dataset from the following sites:-
 
 https://www.kaggle.com/aadilmalik94/animecharacterfaces
+
+
